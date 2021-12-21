@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I listen to music while programming
 ### Connect with me:
 <a href="https://linkedin.com/in/swapnadeep-pradhan" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
