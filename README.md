@@ -3,8 +3,7 @@
 ### Student, Web Admin, Programmer
 
 - 🎓 Student @NSEC Kolkata and @IIT Madras
-- 🌐 Web Admin of Nallamala House @IIT Madras BSc Degree
-- 🌱 Currently learning Java, Flutter & Git
+- 🌱 Currently learning Data Science
 - 💬 Ask me about HTML, CSS, Python, Flask, C
 - 📫 Feel free to reach me at pradhan.swapnadeep@gmail.com
 - ⚡ Fun fact: I listen to music while programming
