@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Swapnadeep Pradhan
 
-### Student, Web Admin, Programmer
+### Student, Programmer, Aspiring Data Scientist
 
 - 🎓 Student @NSEC Kolkata and @IIT Madras
 - 🌱 Currently learning Data Science
