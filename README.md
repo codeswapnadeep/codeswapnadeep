@@ -4,7 +4,7 @@
 
 - 🎓 Student @NSEC Kolkata and @IIT Madras
 - 🌱 Currently learning Data Science
-- 💬 Ask me about HTML, CSS, Python, Flask, C
+- 💬 Ask me about Web Dev, Python, Sklearn, Flask, C, Java, ChatGPT
 - 📫 Feel free to reach me at pradhan.swapnadeep@gmail.com
 - ⚡ Fun fact: I listen to music while programming
 ### Connect with me:
